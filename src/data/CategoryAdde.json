@@ -1,0 +1,40 @@
+[
+    {
+        "name": "AI",
+        "description": "Artificial Intelligence enables machines to mimic human intelligence for tasks like problem-solving, decision-making, and automation."
+    },
+    {
+        "name": "Cloud Computing",
+        "description": "Delivers computing services like storage, databases, and servers over the internet, ensuring scalability and cost-efficiency."
+    },
+    {
+        "name": "Cybersecurity",
+        "description": "Protects systems, networks, and data from cyber threats using encryption, firewalls, and secure authentication methods."
+    },
+    {
+        "name": "Data Science",
+        "description": "Extracts insights from structured and unstructured data using statistics, machine learning, and analytical techniques."
+    },
+    {
+        "name": "DevOps",
+        "description": "Combines development and operations to automate software deployment, improve collaboration, and ensure continuous integration and delivery."
+    },
+    {
+        "name": "Game Development",
+        "description": "Involves designing, coding, and creating video games using game engines like Unity or Unreal Engine."
+    },
+    {
+        "name": "Machine Learning",
+        "description": "A subset of AI that enables computers to learn from data and make predictions without explicit programming."
+    },
+    {
+        "name": "Mobile Development",
+        "description": "Focuses on creating applications for mobile devices using platforms like Android (Kotlin) and iOS (Swift)."
+    },
+    {
+        "name": "Web Development",
+        "description": "Builds and maintains websites and web applications using frontend, backend, and full-stack technologies."
+    }
+    
+]
+
