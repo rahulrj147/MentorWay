@@ -1,0 +1,17 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+
+version: 2
+updates:
+  - package-ecosystem: "npm" # For Node.js projects
+    directory: "/" # Location of your package.json
+    schedule:
+      interval: "daily" # Check for updates daily
+    open-pull-requests-limit: 10 # Limit the number of open PRs
+    reviewers:
+      - "your-github-username" # Add reviewers for the PRs
+    labels:
+      - "dependencies" # Add labels to the PRs
